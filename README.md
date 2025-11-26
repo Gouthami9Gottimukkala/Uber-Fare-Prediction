@@ -205,6 +205,6 @@ Uber-Fare-Prediction/
 # 👩‍💻 Author
 **Gouthami Gottimukkala**  
 Data Science Enthusiast | Machine Learning Practitioner  
-📍 Bengaluru, India  
-🔗 GitHub: *your-link*  
+🔗 GitHub: *https://github.com/Gouthami9Gottimukkala*
+
 
