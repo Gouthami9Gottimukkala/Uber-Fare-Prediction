@@ -1,10 +1,4 @@
 # 🚖 Uber Ride Fare Prediction – Regression Machine Learning Project  
-### *MentorMind Menternship (Co-Certified by Uber)*  
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Machine Learning](https://img.shields.io/badge/Regression-Modeling-brightgreen.svg)
-![Status](https://img.shields.io/badge/Project-Completed-success.svg)
-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
 
 ---
 
@@ -192,29 +186,9 @@ Other metrics:
 
 ---
 
-# ▶️ How to Run
-
-### Clone Repo
-```bash
-git clone https://github.com/<your-username>/Uber-Fare-Prediction.git
-```
-
-### Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### Run Notebooks
-Open Jupyter Notebook and run:
-- 1. Data Preprocessing  
-- 2. Regression Modeling  
-- 3. Model Evaluation  
-
----
-
 # 👩‍💻 Author
 **Gouthami Gottimukkala**  
 Data Science Enthusiast | Machine Learning Practitioner  
 📍 Bengaluru, India  
 🔗 GitHub: *your-link*  
-🔗 LinkedIn: *your-link*
+
